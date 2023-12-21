@@ -8,6 +8,7 @@ public class PracticeMergeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PracticeMergeApplication.class, args);
+		System.out.println("test");
 	}
 
 }
